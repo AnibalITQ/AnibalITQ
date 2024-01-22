@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy un estudiante de ingeniería en sistemas computacionales en el tecNM campus querétaro, actualmente me encuentro cursando el sexto semestre. Soy miembro del pool de talento de inroads y me encuentro en busca de nuevas oportunidades tanto laborales como de aprendizaje.
 
 <!--
 **AnibalITQ/AnibalITQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
